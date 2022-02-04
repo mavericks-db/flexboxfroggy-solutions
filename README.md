@@ -1,2 +1,2 @@
-# flexbogfroggy-solutions
+# flexboxfroggy-solutions
 https://flexboxfroggy.com
